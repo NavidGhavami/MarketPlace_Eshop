@@ -25,7 +25,9 @@ namespace Website.Endpoint
             #region ConnectionString
 
             string connection = Configuration["ConnectionString:SqlServer"];
+
             services.AddDbContext<DatabaseContext>(option => option.UseSqlServer(connection));
+            services.AddDbContext<IdentityDatabaseContext>(option => option.UseSqlServer(connection));
 
             #endregion
 

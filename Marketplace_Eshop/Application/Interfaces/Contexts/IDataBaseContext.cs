@@ -1,13 +1,10 @@
 ﻿using System.Threading;
 using System.Threading.Tasks;
-using Domain.Users;
-using Microsoft.EntityFrameworkCore;
 
 namespace Application.Interfaces.Contexts
 {
     public interface IDataBaseContext
     {
-        public DbSet<User> Users { get; set; }
 
         int SaveChanges();
         int SaveChanges(bool acceptAllChangesOnSuccess);

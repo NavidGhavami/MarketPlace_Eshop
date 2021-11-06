@@ -2,23 +2,18 @@
 using System.Linq;
 using Application.Interfaces.Contexts;
 using Domain.Attributes;
-using Domain.Users;
 using Microsoft.EntityFrameworkCore;
 
 namespace Persistence.Contexts
 {
     public class DatabaseContext : DbContext, IDataBaseContext
     {
-        public DatabaseContext(DbContextOptions options) : base(options)
+        public DatabaseContext(DbContextOptions<DatabaseContext> options) : base(options)
         {
 
         }
 
-        public DbSet<User> Users { get; set; }
-
-
-
-
+        
         protected override void OnModelCreating(ModelBuilder builder)
         {
 
