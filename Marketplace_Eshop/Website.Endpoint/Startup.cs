@@ -1,3 +1,5 @@
+using System;
+using Infrastructure.IdentityConfig;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -22,12 +24,21 @@ namespace Website.Endpoint
         {
             services.AddControllersWithViews();
 
-            #region ConnectionString
+            #region ConnectionString_And_IdentityService
 
             string connection = Configuration["ConnectionString:SqlServer"];
 
             services.AddDbContext<DatabaseContext>(option => option.UseSqlServer(connection));
-            services.AddDbContext<IdentityDatabaseContext>(option => option.UseSqlServer(connection));
+
+            services.AddIdentityService(Configuration);
+            services.AddAuthorization();
+            services.ConfigureApplicationCookie(option =>
+            {
+                option.ExpireTimeSpan = TimeSpan.FromMinutes(10);
+                option.LoginPath = "/Account/Login";
+                option.AccessDeniedPath = "/Account/AccessDenied";
+                option.SlidingExpiration = true;
+            });
 
             #endregion
 
@@ -51,6 +62,8 @@ namespace Website.Endpoint
             app.UseStaticFiles();
 
             app.UseRouting();
+
+            app.UseAuthentication();
 
             app.UseAuthorization();
 
