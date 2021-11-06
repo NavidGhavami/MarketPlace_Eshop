@@ -1,7 +1,10 @@
 ﻿using System;
+using Domain.Attributes;
 
-namespace Domian.Users
+namespace Domain.Users
 {
+
+    [Auditable]
     public class User
     {
         public Guid Id { get; set; }

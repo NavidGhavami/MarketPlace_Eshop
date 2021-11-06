@@ -1,6 +1,6 @@
 ﻿using System.Threading;
 using System.Threading.Tasks;
-using Domian.Users;
+using Domain.Users;
 using Microsoft.EntityFrameworkCore;
 
 namespace Application.Interfaces.Contexts
