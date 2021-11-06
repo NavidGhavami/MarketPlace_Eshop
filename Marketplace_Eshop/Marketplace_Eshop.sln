@@ -13,19 +13,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{5D5A6E50-D2E0-4F38-BCEC-25A05688001C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domian", "Domian\Domian.csproj", "{D85C0999-C7BD-4F62-B244-4B873A306BCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domian\Domain.csproj", "{D85C0999-C7BD-4F62-B244-4B873A306BCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{1E59AD60-04FC-4C5D-873A-A4670DFAC229}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Application\Application.csproj", "{1E59AD60-04FC-4C5D-873A-A4670DFAC229}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{CA26CFD3-34B8-4EEE-B06C-8CA2A516A124}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructures", "Infrastructures", "{1ADC3AE3-978E-4499-9C0D-62A292C57E07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\Persistence.csproj", "{D627860B-BE60-4B2D-B75E-C3EA675A9B73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistence", "Persistence\Persistence.csproj", "{D627860B-BE60-4B2D-B75E-C3EA675A9B73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{776DE9AF-BCD0-40B9-9B6F-D9061E962AB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{776DE9AF-BCD0-40B9-9B6F-D9061E962AB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Website.Endpoint", "Website.Endpoint\Website.Endpoint.csproj", "{415D80CC-75F8-4FED-8B84-761C6608F66B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Website.Endpoint", "Website.Endpoint\Website.Endpoint.csproj", "{415D80CC-75F8-4FED-8B84-761C6608F66B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

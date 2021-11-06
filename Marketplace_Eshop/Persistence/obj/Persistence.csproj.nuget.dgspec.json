@@ -4,14 +4,78 @@
     "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Persistence\\Persistence.csproj": {
+    "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Persistence\\Persistence.csproj",
-        "projectName": "Persistence",
-        "projectPath": "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Persistence\\obj\\",
+        "outputPath": "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Domian\\Domain.csproj": {
+                "projectPath": "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Domian\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Domian\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Domian\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Domian\\Domain.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Domian\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +103,89 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Persistence\\Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Persistence\\Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Application\\Application.csproj": {
+                "projectPath": "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Application\\Application.csproj"
+              },
+              "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Domian\\Domain.csproj": {
+                "projectPath": "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Domian\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

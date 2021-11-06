@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Domian\\Domian.csproj",
-      "projectName": "Domian",
-      "projectPath": "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Domian\\Domian.csproj",
+      "projectUniqueName": "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Domian\\Domain.csproj",
+      "projectName": "Domain",
+      "projectPath": "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Domian\\Domain.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
       "outputPath": "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Domian\\obj\\",
       "projectStyle": "PackageReference",

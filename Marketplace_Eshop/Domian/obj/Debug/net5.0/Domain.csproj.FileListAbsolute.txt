@@ -1,0 +1,12 @@
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Domian\bin\Debug\net5.0\Domain.deps.json
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Domian\bin\Debug\net5.0\Domain.dll
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Domian\bin\Debug\net5.0\ref\Domain.dll
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Domian\bin\Debug\net5.0\Domain.pdb
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Domian\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Domian\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Domian\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Domian\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Domian\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Domian\obj\Debug\net5.0\Domain.dll
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Domian\obj\Debug\net5.0\ref\Domain.dll
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Domian\obj\Debug\net5.0\Domain.pdb

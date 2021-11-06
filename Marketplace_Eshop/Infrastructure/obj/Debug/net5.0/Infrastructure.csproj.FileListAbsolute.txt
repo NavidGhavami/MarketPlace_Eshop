@@ -1,0 +1,12 @@
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
