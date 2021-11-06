@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Website.Endpoint\\Website.Endpoint.csproj": {}
+    "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Website.Endpoint\\Website.EndPoint.csproj": {}
   },
   "projects": {
     "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Application\\Application.csproj": {
@@ -287,12 +287,12 @@
         }
       }
     },
-    "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Website.Endpoint\\Website.Endpoint.csproj": {
+    "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Website.Endpoint\\Website.EndPoint.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Website.Endpoint\\Website.Endpoint.csproj",
-        "projectName": "Website.Endpoint",
-        "projectPath": "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Website.Endpoint\\Website.Endpoint.csproj",
+        "projectUniqueName": "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Website.Endpoint\\Website.EndPoint.csproj",
+        "projectName": "Website.EndPoint",
+        "projectPath": "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Website.Endpoint\\Website.EndPoint.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
         "outputPath": "E:\\Programming\\Codes and projects\\MarketPlace Eshop - Fereydoon Golzar\\Marketplace_Eshop\\Marketplace_Eshop\\Website.Endpoint\\obj\\",
         "projectStyle": "PackageReference",
@@ -349,6 +349,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             }
           },
           "imports": [

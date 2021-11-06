@@ -10,3 +10,10 @@ E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketpla
 E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
 E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
 E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Infrastructure\bin\Debug\net5.0\Application.dll
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Infrastructure\bin\Debug\net5.0\Domain.dll
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Infrastructure\bin\Debug\net5.0\Persistence.dll
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Infrastructure\bin\Debug\net5.0\Persistence.pdb
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Infrastructure\bin\Debug\net5.0\Application.pdb
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Infrastructure\bin\Debug\net5.0\Domain.pdb
+E:\Programming\Codes and projects\MarketPlace Eshop - Fereydoon Golzar\Marketplace_Eshop\Marketplace_Eshop\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete

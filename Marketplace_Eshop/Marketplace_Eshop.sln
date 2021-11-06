@@ -25,7 +25,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistence", "Persistence\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{776DE9AF-BCD0-40B9-9B6F-D9061E962AB5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Website.Endpoint", "Website.Endpoint\Website.Endpoint.csproj", "{415D80CC-75F8-4FED-8B84-761C6608F66B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Website.EndPoint", "Website.Endpoint\Website.EndPoint.csproj", "{415D80CC-75F8-4FED-8B84-761C6608F66B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admin.EndPoint", "Admin.EndPoint\Admin.EndPoint.csproj", "{09FEF1FB-7DEB-47EB-A36F-4D6C2D205AB2}"
 EndProject
